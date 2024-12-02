@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "BTreeNode" ALTER COLUMN "t" SET DEFAULT 2;
